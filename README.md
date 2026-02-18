@@ -13,7 +13,7 @@ Blocks all input for 30 seconds so you can wipe down your peripherals. Features 
 <br clear="left" />
 
 <a href="https://github.com/made-by-chris/pointful">
-  <img src="https://raw.githubusercontent.com/made-by-chris/pointful/main/icon-source.png" width="80" align="left" alt="Pointful logo" />
+  <img src="https://raw.githubusercontent.com/made-by-chris/pointful/master/icon-source.png" width="80" align="left" alt="Pointful logo" />
 </a>
 
 ### [Pointful](https://github.com/made-by-chris/pointful)
