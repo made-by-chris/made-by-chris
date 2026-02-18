@@ -1,7 +1,5 @@
 # Hey, I'm Chris
 
-I build small, focused desktop utilities that solve real problems.
-
 ## Apps
 
 ### [Janitor](https://github.com/made-by-chris/janitor)
@@ -24,6 +22,3 @@ A lightweight clipboard manager with multiple named slots for copying and pastin
 **Universal keyboard shortcut translator.**
 Press a shortcut, share the URL, and it translates to any keyboard layout and platform. No more confusion when sharing shortcuts between QWERTY, AZERTY, Dvorak, Mac, and Windows users.
 
----
-
-All apps are built with [Tauri](https://v2.tauri.app/) for tiny bundle sizes (~5MB vs Electron's ~100MB+).
