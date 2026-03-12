@@ -32,16 +32,6 @@ Keeps your machine awake while letting your monitors sleep. Perfect for running 
 
 <br clear="left" />
 
-<a href="https://github.com/made-by-chris/cc">
-  <img src="https://raw.githubusercontent.com/made-by-chris/cc/master/assets/icon.png" width="80" align="left" alt="cc logo" />
-</a>
-
-### [cc](https://github.com/made-by-chris/cc)
-**Multi-slot clipboard manager for power users.**
-A lightweight clipboard manager with multiple named slots for copying and pasting. Stop overwriting your clipboard every time you copy something new.
-
-<br clear="left" />
-
 <a href="https://github.com/made-by-chris/boardkey">
   <img src="https://raw.githubusercontent.com/made-by-chris/boardkey/master/assets/icon-512.png" width="80" align="left" alt="BoardKey logo" />
 </a>
