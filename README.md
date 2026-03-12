@@ -51,3 +51,13 @@ A lightweight clipboard manager with multiple named slots for copying and pastin
 Press a shortcut, share the URL, and it translates to any keyboard layout and platform. No more confusion when sharing shortcuts between QWERTY, AZERTY, Dvorak, Mac, and Windows users.
 
 <br clear="left" />
+
+<a href="https://github.com/made-by-chris/nocap">
+  <img src="https://raw.githubusercontent.com/made-by-chris/nocap/master/icon.png" width="80" align="left" alt="NoCap logo" />
+</a>
+
+### [NoCap](https://github.com/made-by-chris/nocap)
+**Dead-simple screen recorder with webcam overlay.**
+Record your screen, mic, and system audio into a single seekable video. Multiple output modes (YouTube, TikTok, Square, Instagram, Free), draggable webcam bubble, and layout options. No accounts, no cloud. Windows.
+
+<br clear="left" />
