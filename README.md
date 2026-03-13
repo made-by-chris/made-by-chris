@@ -2,6 +2,32 @@
 
 ## Apps
 
+### [openpane](https://github.com/made-by-chris/openpane)
+**Open a native grid of terminals across one or every display.**
+Launch exact layouts like `4x2`, `3x3`, or `2x1` across your current monitor or all monitors, and run the same command in every terminal. Native Rust CLI with GitHub-release installers for Windows, macOS, and Linux. Great for Claude, OpenCode, logs, shells, and parallel agent sessions.
+
+<br clear="left" />
+
+<a href="https://github.com/made-by-chris/NightShift">
+  <img src="https://raw.githubusercontent.com/made-by-chris/NightShift/master/logo.png" width="80" align="left" alt="NightShift logo" />
+</a>
+
+### [NightShift](https://github.com/made-by-chris/NightShift)
+**Turn off your monitors while AI agents work overnight.**
+Keeps your machine awake while letting your monitors sleep. Perfect for running Claude Code, Cowork, OpenClaw, or other AI agents through the night without screen burn or wasted energy.
+
+<br clear="left" />
+
+<a href="https://github.com/made-by-chris/nocap">
+  <img src="https://raw.githubusercontent.com/made-by-chris/nocap/master/icon.png" width="80" align="left" alt="NoCap logo" />
+</a>
+
+### [NoCap](https://github.com/made-by-chris/nocap)
+**Dead-simple screen recorder with webcam overlay.**
+Record your screen, mic, and system audio into a single seekable video. Multiple output modes (YouTube, TikTok, Square, Instagram, Free), draggable webcam bubble, and layout options. No accounts, no cloud. Windows.
+
+<br clear="left" />
+
 <a href="https://github.com/made-by-chris/janitor">
   <img src="https://raw.githubusercontent.com/made-by-chris/janitor/master/envato-labs-image-edit.png" width="80" align="left" alt="Janitor logo" />
 </a>
@@ -22,16 +48,6 @@ Helps teachers communicate precise screen locations to students by overlaying a 
 
 <br clear="left" />
 
-<a href="https://github.com/made-by-chris/NightShift">
-  <img src="https://raw.githubusercontent.com/made-by-chris/NightShift/master/logo.png" width="80" align="left" alt="NightShift logo" />
-</a>
-
-### [NightShift](https://github.com/made-by-chris/NightShift)
-**Turn off your monitors while AI agents work overnight.**
-Keeps your machine awake while letting your monitors sleep. Perfect for running Claude Code, Cowork, OpenClaw, or other AI agents through the night without screen burn or wasted energy.
-
-<br clear="left" />
-
 <a href="https://github.com/made-by-chris/boardkey">
   <img src="https://raw.githubusercontent.com/made-by-chris/boardkey/master/assets/icon-512.png" width="80" align="left" alt="BoardKey logo" />
 </a>
@@ -39,15 +55,5 @@ Keeps your machine awake while letting your monitors sleep. Perfect for running 
 ### [BoardKey](https://github.com/made-by-chris/boardkey)
 **Universal keyboard shortcut translator.**
 Press a shortcut, share the URL, and it translates to any keyboard layout and platform. No more confusion when sharing shortcuts between QWERTY, AZERTY, Dvorak, Mac, and Windows users.
-
-<br clear="left" />
-
-<a href="https://github.com/made-by-chris/nocap">
-  <img src="https://raw.githubusercontent.com/made-by-chris/nocap/master/icon.png" width="80" align="left" alt="NoCap logo" />
-</a>
-
-### [NoCap](https://github.com/made-by-chris/nocap)
-**Dead-simple screen recorder with webcam overlay.**
-Record your screen, mic, and system audio into a single seekable video. Multiple output modes (YouTube, TikTok, Square, Instagram, Free), draggable webcam bubble, and layout options. No accounts, no cloud. Windows.
 
 <br clear="left" />
