@@ -2,6 +2,10 @@
 
 ## Apps
 
+<a href="https://github.com/made-by-chris/openpane">
+  <img src="https://raw.githubusercontent.com/made-by-chris/openpane/main/assets/openpane-logo.svg" width="80" align="left" alt="openpane logo" />
+</a>
+
 ### [openpane](https://github.com/made-by-chris/openpane)
 **Open a native grid of terminals across one or every display.**
 Launch exact layouts like `4x2`, `3x3`, or `2x1` across your current monitor or all monitors, and run the same command in every terminal. Native Rust CLI with GitHub-release installers for Windows, macOS, and Linux. Great for Claude, OpenCode, logs, shells, and parallel agent sessions.
